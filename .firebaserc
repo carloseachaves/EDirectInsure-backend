@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "edirectinsure"
+  },
+  "fbd": {
+        "apikey": "AIzaSyBnwIQ1BGkPWr_tyRSG7rL3FOGSQ5KrScM",
+        "authdomain": "endirect-2ff89.firebaseapp.com",
+        "databaseurl": "https://endirect-2ff89.firebaseio.com",
+        "projectid": "endirect-2ff89",
+        "storagebucket": "endirect-2ff89.appspot.com",
+        "messagingsenderid": "554201458422",
+        "appid": "1:554201458422:web:35580c0a4c31ac23"
+    }
+}
