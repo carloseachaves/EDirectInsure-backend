@@ -44,7 +44,7 @@ app.post('/register', function (req, res) {
     
     firebase.auth().createUserWithEmailAndPassword(body.user, body.pass)
     .then(function (data){
-        res.json('Hello Then!');
+        res.json(data);
     })
     .catch(function (error) {
         res.status(500);
